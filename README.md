@@ -10,15 +10,15 @@
 
 🚀 **About Me**
 
-I’m a passionate full stack data engineer, skilled at delivering end-to-end data solutions—from data collection system design, integration, and modeling, all the way to ETL, data science, and presentation. I thrive on transforming raw data into actionable insights and building robust, scalable pipelines.
+I’m a passionate full stack data engineer, skilled at delivering end-to-end data solutions—from data collection system design, integration, modeling, all the way to ETL, data science, and dash board presentations. I thrive on transforming raw data into actionable insights and building robust, scalable pipelines.
 
 ---
 
 🌟 **Core Skills**
 
 - **Expert:** Python, Apache Spark, Databricks, Git, Azure DevOps, Azure
-- **Intermediate:** JavaScript, Snowflake, BigQuery, SQL Server, IBM Streamsets, GCP
-- **Familiar:** C#/.NET, Kafka, Terraform
+- **Intermediate:** JavaScript, Snowflake, BigQuery, SQL Server, IBM Streamsets, GCP, Docker, Terraform
+- **Familiar:** C#/.NET, Kafka
 
 ---
 
